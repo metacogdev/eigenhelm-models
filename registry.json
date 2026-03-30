@@ -1,1 +1,17 @@
-{"version": 1, "models": []}
+{
+  "version": 1,
+  "models": [
+    {
+      "name": "general-polyglot-v1",
+      "description": "multi model (36 components, 1594 files)",
+      "language": "multi",
+      "corpus_class": "C",
+      "n_components": 36,
+      "n_training_files": 1594,
+      "download_url": "https://github.com/metacogdev/eigenhelm-models/releases/download/general-polyglot-v1-v1.0.0/general-polyglot-v1.npz",
+      "sha256": "d753c32444c363e6e5066648eb01118a88b4f3f971ba845685b82eb6b923c49e",
+      "size_bytes": 331796,
+      "version": "1.0.0"
+    }
+  ]
+}
